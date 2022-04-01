@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "wf2GA42Nym4ZRGVTeXeCrjRdgU8KxTHK4Bmj8EfNlfjlLYbl3LZ6r4bufXiVyJ8qagPDk/MUHXR5AEts3GCkBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LEGION SIR-MOBILE-08\\source\\repos\\ComPortDraft01\\ComPortDraft01\\ComPortDraft01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEGION SIR-MOBILE-08\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LEGION SIR-MOBILE-08\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\LEGION SIR-MOBILE-08\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\LEGION SIR-MOBILE-08\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\LEGION SIR-MOBILE-08\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\LEGION SIR-MOBILE-08\\.nuget\\packages\\runtime.native.system.io.ports\\6.0.0\\runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\LEGION SIR-MOBILE-08\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\LEGION SIR-MOBILE-08\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\LEGION SIR-MOBILE-08\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\LEGION SIR-MOBILE-08\\.nuget\\packages\\system.io.ports\\6.0.0\\system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\LEGION SIR-MOBILE-08\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\LEGION SIR-MOBILE-08\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\LEGION SIR-MOBILE-08\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
